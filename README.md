@@ -2,12 +2,12 @@
 
 Here is the ReadMe - Welcome to my portfolio:
 
-[Sustainable Database Infrastructure Project]()
 <br>
----
-[Arduino Signaling Display]()
-<br>
----
-[Music Analytics Manager]()
-<br>
----
+
+| Project Title | Description |
+| ----------------------------------------------- | --------------- |
+| [Sustainable Database Infrastructure Project]() |                 |
+| [Arduino Signaling Display]() |                 |
+| [Music Analytics Manager]() |                 |
+
+
